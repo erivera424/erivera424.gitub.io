@@ -168,3 +168,8 @@ hr {
   text-decoration:none;
   color: rgb(255, 255, 166);
 }
+
+a{
+  text-decoration: none;
+  color: aliceblue;
+}
