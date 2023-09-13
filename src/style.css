@@ -104,6 +104,13 @@ align-items: center;
   padding: 80px;
 }
 
+.sub-section-alternative{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 80px;
+}
+
 .headshot {
   width: 300px;
   height: 300px;
@@ -121,4 +128,15 @@ align-items: center;
 
 .smaller-font {
   font-size: 20px;
+}
+
+.project-card{
+  width: 300px;
+  height: 500px;
+  border: solid black;
+}
+
+.project-container{
+  display: flex;
+  justify-content: space-around;
 }
