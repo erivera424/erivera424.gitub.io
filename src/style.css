@@ -144,3 +144,9 @@ box-shadow: 5px 5px 20px black;}
   display: flex;
   justify-content: space-around;
 }
+
+.project-image {
+  margin-top: 25px;
+  width: 250px;
+  border-radius: 125px;
+}
