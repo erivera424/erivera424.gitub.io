@@ -114,3 +114,7 @@ align-items: center;
 .information{
   color: aliceblue;
 }
+
+.smaller-font {
+  font-size: 20px;
+}
