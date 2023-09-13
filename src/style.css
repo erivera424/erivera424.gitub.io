@@ -142,8 +142,7 @@ align-items: center;
   height: 500px;
   box-shadow: 5px 5px 20px black;
   display: flex;
-  align-items: center;
-  text-align: center;
+
 }
 
 .project-container {
