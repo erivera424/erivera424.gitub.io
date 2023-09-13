@@ -120,6 +120,7 @@ align-items: center;
 .headshot-container {
   display: flex;
   align-items: center;
+  margin: 10px;
 }
 
 .information{
