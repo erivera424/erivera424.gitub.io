@@ -45,6 +45,10 @@ h2 {
   color: aliceblue;
 }
 
+h3{
+  color: aliceblue;
+}
+
 p {
   margin: 0;
   font-size: 30px;
@@ -106,14 +110,14 @@ align-items: center;
 .sub-section {
   display: flex;
   justify-content: space-around;
-  padding: 80px;
+  padding: 70px;
 }
 
 .sub-section-alternative{
   display: flex;
   flex-direction: column;
   text-align: center;
-  padding: 80px;
+  padding: 70px;
 }
 
 .headshot {
