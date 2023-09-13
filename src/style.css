@@ -14,8 +14,10 @@ section {
 }
 
 footer {
-  height: 500px;
   background-color: black;
+  color: aliceblue;
+  text-align: center;
+  padding: 80px;
 }
 
 nav {
@@ -31,7 +33,6 @@ ul {
   font-size: 30px;
 }
  li {
-  width: 200px;
   text-decoration: none;
 }
 
@@ -52,7 +53,6 @@ p {
 }
 
 .subtext {
-  margin-top: 10px;
   font-size: 15px;
   font-weight: 300px;
   color: aliceblue;
