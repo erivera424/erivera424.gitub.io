@@ -32,6 +32,7 @@ ul {
   justify-content: space-around;
   font-size: 30px;
 }
+
  li {
   text-decoration: none;
 }
@@ -191,6 +192,10 @@ a {
  display: none;
 }
 
+.hamburger:focus {
+  outline: 0;
+}
+
 @media only screen and (max-width: 1000px) {
   .hamburger {
     display: block;
@@ -198,9 +203,27 @@ a {
     background-color: transparent;
     color: aliceblue;
     font-size: 30px;
+    margin: 20px;
+    align-self: flex-end;
   }
 
   ul {
+    display: none;
+    background-color: rgb(109, 173, 175);
+    margin: 0px;
+  }
+
+  ul.show {
+    display: block;
+  }
+
+  nav {
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: rgb(109, 173, 175);
+ }
+
+  .logo {
     display: none;
   }
 }
