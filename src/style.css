@@ -211,6 +211,7 @@ a {
     display: none;
     background-color: rgb(109, 173, 175);
     margin: 0px;
+    margin-bottom: 20px;
   }
 
   ul.show {
