@@ -60,6 +60,7 @@ p {
   font-size: 15px;
   font-weight: 300px;
   color: aliceblue;
+  flex-grow: 1;
 }
 
 .hero-area {
