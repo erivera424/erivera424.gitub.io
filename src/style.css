@@ -57,8 +57,6 @@ p {
 }
 
 .subtext {
-  height: 100px;
-  overflow: hidden;
   font-size: 15px;
   font-weight: 300px;
   color: aliceblue;
